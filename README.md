@@ -1,9 +1,3 @@
-# GitTest
-
-
-#master change2
-
-#master change1
-
+#GitTest
 
 #develop change 2
